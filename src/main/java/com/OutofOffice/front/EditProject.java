@@ -57,7 +57,7 @@ public class EditProject extends VerticalLayout implements BeforeEnterObserver {
 		comboType = new ComboBox<String>("Project type:");
 		comboType.setItems(projType);
 		comboPM = new ComboBox<Employee>("Project manager: ");
-		checkStatus = new Checkbox(false);
+		checkStatus = new Checkbox("Status");
 		startPicker = new DatePicker("Start date");
 		endPicker = new DatePicker("End date");
 		textComment = new TextArea();

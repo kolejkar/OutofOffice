@@ -80,7 +80,7 @@ public class ApprovalRequestDetailView extends VerticalLayout implements BeforeE
 					leaveRequest1.getEndDate().toLocalDate());
 			
 			Employee employee1 = leaveRequest1.getEmployee();
-			employee1.setBalance(leaveRequest.getEmployee().getBalance() - days);
+			employee1.setBalance(leaveRequest.getEmployee().getBalance() - days + 1);
 			employeeRepo.save(employee1);
 			
 			approvalRequest1.setStatus("Approved");
