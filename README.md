@@ -49,7 +49,7 @@ We run the application at Eclipse IDE. We open the web browser and enter the add
 </p>
 <p>
   <img src="https://i.pinimg.com/736x/fb/d1/52/fbd152ef3365987b65409a8fa222dd8c.jpg"><br>
-  Okno dodawania lub formularza wniosku. Można zapisać formularz w celu późniejszej edycji. Wwysłać wniosek do przełóżonych lub anulować formularz. <br>
+  Okno dodawania lub formularza wniosku. Można zapisać formularz w celu późniejszej edycji. Wysłać wniosek do przełożonych lub anulować formularz. <br>
 </p>
 <p>
   <img src="https://i.pinimg.com/736x/1b/2e/35/1b2e3517ec85483410c3728ecd4a6f55.jpg"><br>
@@ -57,7 +57,7 @@ We run the application at Eclipse IDE. We open the web browser and enter the add
 </p>
 <p>
   <img src="https://i.pinimg.com/736x/e5/a3/85/e5a38595449da9ff31c4109d193ce6ad.jpg"><br>
-  Okno z szegółami wniosku o urlop. Można zatwierdzić urlop, prze co zmiejszy się liczba nieobecności pracownika o liczbę dni urlopu lub orzucić wniosek urlopowy. <br>
+  Okno z szegółami wniosku o urlop. Można zatwierdzić urlop, prze co zmiejszy się liczba nieobecności pracownika o liczbę dni urlopu lub odrzucić wniosek urlopowy. <br>
 </p>
 
 <h3>Shemat bazy danych na diagramie klas:</h3>
